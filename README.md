@@ -25,7 +25,7 @@ OMDB_API = Your-OMDB-key
 
 ## Starting without an argument
 
-![starting with no arguments!](/screenshots/start-no-arguments.png)
+!starting with no arguments(/screenshots/start-no-arguments.png)
 
 ## Upon selecting concert-this
 
