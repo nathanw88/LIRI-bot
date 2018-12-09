@@ -25,24 +25,24 @@ OMDB_API = Your-OMDB-key
 
 ## Starting without an argument
 
-![starting with no arguments](../../screenshots/start-no-arguments.png)
+![starting with no arguments](./screenshots/start-no-arguments.PNG)
 
 ## Upon selecting concert-this
 
-![concert search](../../screenshots/concert-search.png)
+![concert search](./screenshots/concert-search.PNG)
 
 ## The results returned from concert this
 
-![concert results](../../screenshots/concert-results.png)
+![concert results](./screenshots/concert-results.PNG)
 
 ## Results from movie & spotify
 
-![movie & and spotify results](../../screenshots/capture.png)
+![movie & and spotify results](./screenshots/capture.PNG)
 
 ## Results from arguments in random.txt
 
-![random.txt results](./screenshots/do-what-it-says?)
+![random.txt results](./screenshots/do-what-it-says.PNG)
 
 ## Passing in command line arguments
 
-![command line arguments](../../screenshots/comand-line-arguments.png)
+![command line arguments](./screenshots/comand-line-argument.PNG)
