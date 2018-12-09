@@ -29,15 +29,15 @@ OMDB_API = Your-OMDB-key
 
 ## Upon selecting concert-this
 
-![concert search](/screenshots/concert-search.png)
+![concert search](../../screenshots/concert-search.png)
 
 ## The results returned from concert this
 
-![concert results](/screenshots/concert-results.png)
+![concert results](../../screenshots/concert-results.png)
 
 ## Results from movie & spotify
 
-![movie & and spotify results](/screenshots/capture.png)
+![movie & and spotify results](../../screenshots/capture.png)
 
 ## Results from arguments in random.txt
 
@@ -45,4 +45,4 @@ OMDB_API = Your-OMDB-key
 
 ## Passing in command line arguments
 
-![command line arguments](screenshots/comand-line-arguments.png)
+![command line arguments](../../screenshots/comand-line-arguments.png)
