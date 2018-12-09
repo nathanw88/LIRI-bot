@@ -1,16 +1,16 @@
 # LiriBot
 
-takes in arguments to search spotify, bands in town, or OMDB. can use input from command line to start the search if none is given it will prompt user for needed info
+Takes in arguments to search spotify, bands in town, or OMDB. can use input from command line to start the search if none is given it will prompt user for needed info. It will save all your searches to log.txt.
 
 ## Getting Started
 
-after cloning this down you will need to enter the command npm i in the command line while in the directiory to get all the required node packages, you will need a .env file with the requierd keys. in this format
+After cloning this down you will need to enter the command npm i in the command line, while in the directiory you just cloned to install all the required node packages. You will need to make .env file with the requierd keys, in this format.
 
 ```
 # Spotify API keys
 
-SPOTIFY_ID =  Your-spotify-key
-SPOTIFY_SECRET =	Your-spotify-secret
+SPOTIFY_ID = Your-spotify-key
+SPOTIFY_SECRET = Your-spotify-secret
 
 # Bands in town API keys
 
